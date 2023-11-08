@@ -1,1 +1,4 @@
-*.js linguist-language=python
+*.Vue linguist-language=vue
+*.JavaScript linguist-language=vue
+*.css linguist-language=vue
+*.TypeScript linguist-language=vue
